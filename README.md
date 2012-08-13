@@ -1,0 +1,1 @@
+Theoretical reading list. If you have any questions, comments, or concerns, please email me at craig@theoria.ca.
