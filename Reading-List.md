@@ -9,14 +9,6 @@ Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*. Duke UP, 2010.
 
 Berlant, Lauren. *Cruel Optimism*. Duke UP, 2011.
 
-Bhaskar, Roy. *The Possibility of Naturalism: A Philosophical Critique of the Contemporary Human Sciences*. Harvester, 1979. B828.2.B44
-
-Bhaskar, Roy. *A Realist Theory of Science*. Verso, 2008.
-
-Bhaskar, Roy. *Reclaiming Reality: A Critical Introduction to Contemporary Philosophy*. Verso, 1989. B804.B48
-
-Bhaskar, Roy. *Scientific Realism and Human Emancipation*. Verso, 1986.
-
 Bogost, Ian. *Unit Operations: An Approach to Videogame Criticism*. MIT Press, 2008.
 
 Bryant, Levi R. *The Democracy of Objects*. MPublishing, 2011.
@@ -36,6 +28,10 @@ Elder-Vass, David. *The Reality of Social Construction*. Cambridge UP, 2012. HM1
 Fligstein, Neil and Doug McAdam. *A Theory of Fields*. Oxford UP, 2012.
 
 Fuchs, Stephen. *Against Essentialism: A Theory of Culture and Society*. Harvard UP, 2005.
+
+Giddens, Anthony. *Central Problems in Social Theory: Action, Structure and Contradiction in Social Analysis*. Macmillan, 1979. HM24.G446
+
+Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity, 1984. HM24.G4465
 
 Harman, Graham. *The Quadruple Object*. Zer0, 2011.
 
@@ -72,7 +68,5 @@ Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 20
 Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage*. University of Arizona Press, 2001.
 
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
-
-Sayer, Andrew. *Method in Social Science*. Routledge, 1992.
 
 Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving the Natural World*. University of Minnesota Press, 2011.
