@@ -33,6 +33,8 @@ Giddens, Anthony. *Central Problems in Social Theory: Action, Structure and Cont
 
 Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity, 1984. HM24.G4465
 
+Hall, Matthew. *Plants as Persons: A Philosophical Botany*. SUNY Press, 2011. QK46.H355 2011
+
 Harman, Graham. *The Quadruple Object*. Zer0, 2011.
 
 Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 1999.
