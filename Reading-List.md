@@ -37,6 +37,8 @@ Hall, Matthew. *Plants as Persons: A Philosophical Botany*. SUNY Press, 2011. QK
 
 Harman, Graham. *The Quadruple Object*. Zer0, 2011.
 
+Harman, Graham. *Weird Realism*. Zer0, 2012.
+
 Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. University of California Press, 1999.
 
 Hodder, Ian. *Entangled: An Archaeology of the Relationships Between Humans and Things*. Wiley-Blackwell, 2012.
@@ -67,8 +69,16 @@ Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. 
 
 Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 2011.
 
+Urry, John. *Climate Change and Society*. Polity, 2011. QC903.U77 2011
+
 Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage*. University of Arizona Press, 2001.
 
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
 Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving the Natural World*. University of Minnesota Press, 2011.
+
+Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others*. Duke UP, 1995. H61.P5874 2005
+
+White, Harrison. *Identity and Control: How Social Formations Emerge*. Princeton UP, 2008. [Revised and Updated Version of *Identity and Control: A Structural Theory of Social Action*. Princeton UP, 1992.]
+
+Woodard, Ben. *Slime Dynamics*. Zer0, 2012.
