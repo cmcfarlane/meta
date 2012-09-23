@@ -81,4 +81,6 @@ Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving th
 
 Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others*. Duke UP, 1995. H61.P5874 2005
 
+Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
+
 White, Harrison. *Identity and Control: How Social Formations Emerge*. Princeton UP, 2008. [Revised and Updated Version of *Identity and Control: A Structural Theory of Social Action*. Princeton UP, 1992.]
