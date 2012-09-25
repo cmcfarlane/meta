@@ -19,6 +19,8 @@ Cohen, Jeffrey Jerome. *Animal, Vegetable, Mineral: Ethics and Objects*. Punctum
 
 Coleman, James. *Foundations of Social Theory*. Harvard UP, 1990.
 
+Collins, Randall. *Interaction Ritual Chains*. Princeton UP, 2004.
+
 Coole, Diana and Samantha Frost (eds). *New Materialisms: Ontology, Agency, and Politics*. Duke UP, 2010.
 
 DeLanda, Manuel. *A New Philosophy of Society: Assemblage Theory and Social Complexity*. Continuum, 2006.
@@ -70,6 +72,8 @@ Miller, Daniel. *Stuff*. Polity, 2009.
 Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. Harvard UP, 2009.
 
 Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 2011.
+
+Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
 
 Urry, John. *Climate Change and Society*. Polity, 2011. QC903.U77 2011
 
