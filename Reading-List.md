@@ -73,6 +73,8 @@ Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. 
 
 Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 2011.
 
+Overall, Christine. *Why Have Children: The Ethical Debate*. MIT Press, 2012.
+
 Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
 
 Urry, John. *Climate Change and Society*. Polity, 2011. QC903.U77 2011
