@@ -67,6 +67,10 @@ Little, Daniel. *Microfoundations, Method, and Causation: On the Philosophy of t
 
 Little, Daniel. *Varieties of Social Explanation: An Introduction to the Philosophy of Social Science*. Westview, 1991.
 
+Malabou, Catherine. *The New Wounded: From Neurosis to Brain Damage*. Translated by Steven Miller. Fordham UP, 2012.
+
+Maudlin, Tim. *Philosophy of Physics: Space and Time*. Princeton UP, 2012.
+
 Miller, Daniel. *Stuff*. Polity, 2009.
 
 Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. Harvard UP, 2009.
@@ -90,3 +94,5 @@ Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivis
 Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
 
 White, Harrison. *Identity and Control: How Social Formations Emerge*. Princeton UP, 2008. [Revised and Updated Version of *Identity and Control: A Structural Theory of Social Action*. Princeton UP, 1992.]
+
+Zalamea, Fernando. *Synthetic Philosophy of Contemporary Mathematics*. Translated by Zachary Luke Fraser. Urbanomic, 2012.
