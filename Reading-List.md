@@ -7,6 +7,8 @@ Alexander, Jeffrey C. *Twenty Lectures: Sociological Theory Since World War II*.
 
 Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. HM686.A73 2012
 
+Ayache, Elie. *The Blank Swan: The End of Probability*. John Wiley & Sons, 2010.
+
 Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*. Duke UP, 2010.
 
 Berlant, Lauren. *Cruel Optimism*. Duke UP, 2011.
@@ -29,6 +31,8 @@ Elder-Vass, David. *The Causal Powers of Social Structures*. Cambridge UP, 2010.
 
 Elder-Vass, David. *The Reality of Social Construction*. Cambridge UP, 2012. HM1093.E43 2012.
 
+Ellman, Michael. *Planning Problems in the USSR: The Contribution of Mathematical Economics to their Solution, 1960-1971*. Cambridge UP, 1973.
+
 Fligstein, Neil and Doug McAdam. *A Theory of Fields*. Oxford UP, 2012.
 
 Fuchs, Stephen. *Against Essentialism: A Theory of Culture and Society*. Harvard UP, 2005.
@@ -36,6 +40,8 @@ Fuchs, Stephen. *Against Essentialism: A Theory of Culture and Society*. Harvard
 Giddens, Anthony. *Central Problems in Social Theory: Action, Structure and Contradiction in Social Analysis*. Macmillan, 1979. HM24.G446
 
 Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity, 1984. HM24.G4465
+
+Guattari, Felix and Antonio Negri. *New Lines of Alliance, New Spaces of Liberty*. Translated by Michael Ryan et al. Edited by Stevphen Shukaitis. Autonomedia, 2010.
 
 Hall, Matthew. *Plants as Persons: A Philosophical Botany*. SUNY Press, 2011. QK46.H355 2011
 
@@ -71,6 +77,8 @@ Malabou, Catherine. *The New Wounded: From Neurosis to Brain Damage*. Translated
 
 Maudlin, Tim. *Philosophy of Physics: Space and Time*. Princeton UP, 2012.
 
+Medina, Eden. *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. MIT Press, 2011.
+
 Miller, Daniel. *Stuff*. Polity, 2009.
 
 Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. Harvard UP, 2009.
@@ -87,7 +95,13 @@ Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage*. Univer
 
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
+Sharzer, Greg. *No Local: Why Small-Scale Alternatives Won't Change the World*. Zer0 Books, 2012. 
+
 Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving the Natural World*. University of Minnesota Press, 2011.
+
+Srnicek, Nick and Alex Williams. "On Cunning Automata: Financial Acceleration at the Limits of the Dromological." *Collapse: Journal of Philosophical Research and Development* VIII (2013): #-#.
+
+Srnicek, Nick and Alex Williams. "#Accelerate." *Complicity, Agency, and the Politics of Contemporary Ontologies*, edited by Joshua Johnson. Name Publications, 2013.
 
 Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others*. Duke UP, 1995. H61.P5874 2005
 
