@@ -25,6 +25,8 @@ Collins, Randall. *Interaction Ritual Chains*. Princeton UP, 2004.
 
 Coole, Diana and Samantha Frost (eds). *New Materialisms: Ontology, Agency, and Politics*. Duke UP, 2010.
 
+Dean, Jodi. *The Communist Horizon*. Verso, 2012.
+
 DeLanda, Manuel. *A New Philosophy of Society: Assemblage Theory and Social Complexity*. Continuum, 2006.
 
 Elder-Vass, David. *The Causal Powers of Social Structures*. Cambridge UP, 2010. 
@@ -75,6 +77,10 @@ Little, Daniel. *Varieties of Social Explanation: An Introduction to the Philoso
 
 Malabou, Catherine. *The New Wounded: From Neurosis to Brain Damage*. Translated by Steven Miller. Fordham UP, 2012.
 
+Manza, Jeff and Christopher Uggen. *Locked Out: Felon Disenfranchisement and American Democracy*. Oxford UP, 2006.
+
+Marder, Michael. *Plant-Thinking: A Philosophy of Vegetal Life*. Columbia UP, 2013.
+
 Maudlin, Tim. *Philosophy of Physics: Space and Time*. Princeton UP, 2012.
 
 Medina, Eden. *Cybernetic Revolutionaries: Technology and Politics in Allende's Chile*. MIT Press, 2011.
@@ -86,6 +92,12 @@ Morton, Timothy. *Ecology Without Nature: Rethinking Environmental Aesthetics*. 
 Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 2011.
 
 Overall, Christine. *Why Have Children: The Ethical Debate*. MIT Press, 2012.
+
+Parr, Adrian. *The Wrath of Capital: Neoliberalism and Climate Change Politics*. Columbia UP, 2012.
+
+Pettit's, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
+
+Piantadosi, Claude A. *Mankind Beyond Earth: The History, Science, and Future of Human Space Exploration*. Columbia UP, 2013.
 
 Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
 
@@ -106,6 +118,8 @@ Srnicek, Nick and Alex Williams. "#Accelerate." *Complicity, Agency, and the Pol
 Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others*. Duke UP, 1995. H61.P5874 2005
 
 Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
+
+Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 
 White, Harrison. *Identity and Control: How Social Formations Emerge*. Princeton UP, 2008. [Revised and Updated Version of *Identity and Control: A Structural Theory of Social Action*. Princeton UP, 1992.]
 
