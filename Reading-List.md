@@ -17,6 +17,8 @@ Bogost, Ian. *Unit Operations: An Approach to Videogame Criticism*. MIT Press, 2
 
 Bryant, Levi R. *The Democracy of Objects*. MPublishing, 2011.
 
+Chibber, Vivek. *Postcolonial Theory and the Specter of Capital*. Verso, 2013.
+
 Cohen, Jeffrey Jerome. *Animal, Vegetable, Mineral: Ethics and Objects*. Punctum Books, 2012.
 
 Coleman, James. *Foundations of Social Theory*. Harvard UP, 1990.
