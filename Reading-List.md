@@ -97,7 +97,7 @@ Overall, Christine. *Why Have Children: The Ethical Debate*. MIT Press, 2012.
 
 Parr, Adrian. *The Wrath of Capital: Neoliberalism and Climate Change Politics*. Columbia UP, 2012.
 
-Pettit's, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
+Pettit, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
 
 Piantadosi, Claude A. *Mankind Beyond Earth: The History, Science, and Future of Human Space Exploration*. Columbia UP, 2013.
 
@@ -110,6 +110,12 @@ Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage*. Univer
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
 Sharzer, Greg. *No Local: Why Small-Scale Alternatives Won't Change the World*. Zer0 Books, 2012. 
+
+Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
+
+Slotkin, Richard. *The Fatal Environment: The Myth of the Frontier in the Age of Industrialization, 1800-1890*. Atheneum, 1985.
+
+Slotkin, Richard. *Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America*. Atheneum, 1992.
 
 Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving the Natural World*. University of Minnesota Press, 2011.
 
