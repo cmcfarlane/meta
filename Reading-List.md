@@ -5,6 +5,8 @@ Alexander, Jeffrey C. *Theoretical Logic in Sociology, Vol. 1: Positivism, Presu
 
 Alexander, Jeffrey C. *Twenty Lectures: Sociological Theory Since World War II*. Columbia UP, 1987.
 
+Allhoff, Fritz. *Philosophies of Sciences: A Guide*. Wiley-Blackwell, 2010.
+
 Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. HM686.A73 2012
 
 Ayache, Elie. *The Blank Swan: The End of Probability*. John Wiley & Sons, 2010.
@@ -45,6 +47,8 @@ Giddens, Anthony. *Central Problems in Social Theory: Action, Structure and Cont
 
 Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity, 1984. HM24.G4465
 
+Guala, Franceso and Daniel Steel. *The Philosophy of Social Science Reader*. Routledge, 2010.
+
 Guattari, Felix and Antonio Negri. *New Lines of Alliance, New Spaces of Liberty*. Translated by Michael Ryan et al. Edited by Stevphen Shukaitis. Autonomedia, 2010.
 
 Hall, Matthew. *Plants as Persons: A Philosophical Botany*. SUNY Press, 2011. QK46.H355 2011
@@ -58,6 +62,8 @@ Helmreich, Stefan. *Alien Ocean: Anthropological Voyages in Microbial Seas*. Uni
 Hodder, Ian. *Entangled: An Archaeology of the Relationships Between Humans and Things*. Wiley-Blackwell, 2012.
 
 Ingold, Tim. *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*. Routledge, 2011.
+
+Jarvie, Ian and Jesus Zamora-Bonilla. *The SAGE Handbook of the Philosophy of Social Sciences*. Sage, 2011.
 
 Lahire, Bernard. *The Plural Actor*. Polity, 2011.
 
@@ -79,6 +85,8 @@ Little, Daniel. *Varieties of Social Explanation: An Introduction to the Philoso
 
 Malabou, Catherine. *The New Wounded: From Neurosis to Brain Damage*. Translated by Steven Miller. Fordham UP, 2012.
 
+Mantzavinos, C. *Philosophy of the Social Sciences: Philosophical Theory and Scientific Practice*. Cambridge UP, 2009.
+
 Manza, Jeff and Christopher Uggen. *Locked Out: Felon Disenfranchisement and American Democracy*. Oxford UP, 2006.
 
 Marder, Michael. *Plant-Thinking: A Philosophy of Vegetal Life*. Columbia UP, 2013.
@@ -95,6 +103,8 @@ Nixon, Rob. *Slow Violence and the Environmentalism of the Poor*. Harvard UP, 20
 
 Overall, Christine. *Why Have Children: The Ethical Debate*. MIT Press, 2012.
 
+Parenti, Christian. *Tropic of Chaos: Climate Change and the New Geography of Violence*. Nation Books, 2011.
+
 Parr, Adrian. *The Wrath of Capital: Neoliberalism and Climate Change Politics*. Columbia UP, 2012.
 
 Pettit, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
@@ -109,6 +119,8 @@ Rathje, William and Cullen Murphy. *Rubbish! The Archaeology of Garbage*. Univer
 
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
+Rhodes, Lorna. *Total Confinement: Madness and Reason in the Maximum Security Prison*. University of California Press, 2004.
+
 Sharzer, Greg. *No Local: Why Small-Scale Alternatives Won't Change the World*. Zer0 Books, 2012. 
 
 Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
@@ -116,6 +128,8 @@ Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American 
 Slotkin, Richard. *The Fatal Environment: The Myth of the Frontier in the Age of Industrialization, 1800-1890*. Atheneum, 1985.
 
 Slotkin, Richard. *Gunfighter Nation: The Myth of the Frontier in Twentieth-Century America*. Atheneum, 1992.
+
+Smith, Kimberly K. *Governing Animals: Animal Welfare and the Liberal State*. Oxford UP, 2012.
 
 Smith, Mick. *Against Ecological Sovereignty: Ethics, Biopolitics, and Saving the Natural World*. University of Minnesota Press, 2011.
 
@@ -126,6 +140,8 @@ Srnicek, Nick and Alex Williams. "#Accelerate." *Complicity, Agency, and the Pol
 Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivism and Its Epistemological Others*. Duke UP, 1995. H61.P5874 2005
 
 Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
+
+Turse, Nick. *Kill Anything that Moves: The Real American War in Vietname*. Metropolitan Books, 2013.
 
 Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 
