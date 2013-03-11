@@ -1,6 +1,8 @@
 Reading List
 =
 
+Abbott, C. *Frontiers Past and Future: Science Fiction and the American West*. University Press of Kansas, 2006.
+
 Alexander, Jeffrey C. *Theoretical Logic in Sociology, Vol. 1: Positivism, Presupositions and Current Controversies*. University of California Press, 1982.
 
 Alexander, Jeffrey C. *Twenty Lectures: Sociological Theory Since World War II*. Columbia UP, 1987.
@@ -10,6 +12,8 @@ Allhoff, Fritz. *Philosophies of Sciences: A Guide*. Wiley-Blackwell, 2010.
 Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. HM686.A73 2012
 
 Ayache, Elie. *The Blank Swan: The End of Probability*. John Wiley & Sons, 2010.
+
+Belich, J. *Replenishing the Earth: The Settler Revolution and the Rise of the Angloworld*. Oxford UP, 2009.
 
 Bennett, Jane. *Vibrant Matter: A Political Ecology of Things*. Duke UP, 2010.
 
@@ -121,6 +125,8 @@ Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory i
 
 Rhodes, Lorna. *Total Confinement: Madness and Reason in the Maximum Security Prison*. University of California Press, 2004.
 
+Rieder, J. *Colonialism and the Emergence of Science Fiction*. Wesleyan UP, 2008.
+
 Sharzer, Greg. *No Local: Why Small-Scale Alternatives Won't Change the World*. Zer0 Books, 2012. 
 
 Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
@@ -142,6 +148,8 @@ Steinmetz, George (ed). *The Politics of Method in the Human Sciences: Positivis
 Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
 
 Turse, Nick. *Kill Anything that Moves: The Real American War in Vietname*. Metropolitan Books, 2013.
+
+Veracini, L. *Settler Colonialism: A Theoretical Overview*. Palgrave Macmillan, 2010.
 
 Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 
