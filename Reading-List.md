@@ -209,6 +209,8 @@ Salamon, Tomas. *Design of Agent-Based Models*. Thomas Bruckner, 2011.
 
 Scott, John P. *Social Network Analysis: A Handbook*.  Third Edition. Sage, 2012.
 
+Serpell, James and Elizabeth Paul. "Pets and the Development of Positive Attitudes to Animals." In *Animals and Human Society: Changing Perspectives*. Edited by Aubrey Manning and James Serpell. Routledge, 1994.
+
 Sharzer, Greg. *No Local: Why Small-Scale Alternatives Won't Change the World*. Zer0 Books, 2012. 
 
 Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
@@ -233,7 +235,7 @@ Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
 
 Torgo, Luis. *Data Mining With R: Learning With Case Studies*. Chapman & Hall, 2010.
 
-Turse, Nick. *Kill Anything that Moves: The Real American War in Vietname*. Metropolitan Books, 2013.
+Turse, Nick. *Kill Anything that Moves: The Real American War in Vietnam*. Metropolitan Books, 2013.
 
 Urry, John. *Climate Change and Society*. Polity, 2011. QC903.U77 2011
 
