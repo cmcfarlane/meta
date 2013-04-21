@@ -21,6 +21,12 @@ Srnicek, Nick and Alex Williams. "#Accelerate." *Complicity, Agency, and the Pol
 Animal
 ---
 
+Budiansky, Stephen. *The Covenant of the Wild: Why Animals Chose Domestication*. William Morrow, 1992.
+
+Clutton-Brock, Juliet. *A Natural History of Domesticated Mammals*. Cambridge UP, 1999.
+
+Kalof, Linda. *Looking at Animals*. Reaktion, 2007.
+
 Serpell, James and Elizabeth Paul. "Pets and the Development of Positive Attitudes to Animals." In *Animals and Human Society: Changing Perspectives*. Edited by Aubrey Manning and James Serpell. Routledge, 1994.
 
 Eco
