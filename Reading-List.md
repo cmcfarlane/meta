@@ -198,9 +198,13 @@ Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structu
 
 Guala, Franceso and Daniel Steel. *The Philosophy of Social Science Reader*. Routledge, 2010.
 
+Haraway, Donna. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." *Feminist Studies* 14 (1988): 575--99.
+
 Hedström, Peter. *Social Mechanisms: An Analytical Approach to Social Theory*. Cambridge UP, 1998.
 
 Hedström, Peter. *Dissecting the Social: On the Principles of Analytical Sociology*. Cambridge UP, 2005.
+
+Hodgson, Geoffrey M. and Thorbjørn Knudsen. *Darwin's Conjecture: The Search for General Principles of Social and Economic Evolution*. University of Chicago Press, 2010.
 
 Ingold, Tim. *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*. Routledge, 2011.
 
