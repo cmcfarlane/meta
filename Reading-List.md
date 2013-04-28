@@ -162,13 +162,17 @@ Wasserman, Stanley. *Social Network Analysis: Methods and Applications*. Cambrid
 Social
 ---
 
+Abend, G. "Two Main Problems in the Sociology of Morality." *Theory and Society* 37 (2008): 87--125.
+
 Alexander, Jeffrey C. *Theoretical Logic in Sociology, Vol. 1: Positivism, Presupositions and Current Controversies*. University of California Press, 1982.
 
 Alexander, Jeffrey C. *Twenty Lectures: Sociological Theory Since World War II*. Columbia UP, 1987.
 
 Allhoff, Fritz. *Philosophies of Sciences: A Guide*. Wiley-Blackwell, 2010.
 
-Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. HM686.A73 2012
+Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. 
+
+Arpaly, Nomy. *Unprincipled Virtue: An Inquiry Into Moral Agency*. Oxford UP, 2003.
 
 Berlant, Lauren. *Cruel Optimism*. Duke UP, 2011.
 
