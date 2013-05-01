@@ -170,15 +170,25 @@ Alexander, Jeffrey C. *Twenty Lectures: Sociological Theory Since World War II*.
 
 Allhoff, Fritz. *Philosophies of Sciences: A Guide*. Wiley-Blackwell, 2010.
 
+Anderson, E. *Value in Ethics and Economics*. Harvard UP, 1993.
+
+Anderson, E. "Uses of Value Judgements in Science: A General Argument, With Lessons for a Case Study of Feminist Research on Divorce." *Hypatia* 19 (2004): 1--24.
+
 Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 2012. 
 
 Arpaly, Nomy. *Unprincipled Virtue: An Inquiry Into Moral Agency*. Oxford UP, 2003.
 
 Berlant, Lauren. *Cruel Optimism*. Duke UP, 2011.
 
+Boltanski, Luc. *Distant Suffering*. Cambridge UP, 1999.
+
+Boltanski, Luc an L. Thévènot. *On Justification*. Princeton UP, 2006.
+
 Chibber, Vivek. *Postcolonial Theory and the Specter of Capital*. Verso, 2013.
 
 Coleman, James. *Foundations of Social Theory*. Harvard UP, 1990.
+
+Collier, Andew. *Critical Realism: An Introduction*. Verso, 1994.
 
 Collins, Randall. *Interaction Ritual Chains*. Princeton UP, 2004.
 
@@ -194,11 +204,19 @@ Elster, Jon. *Explaining Social Behavior: More Nuts and Bolts for the Social Sci
 
 Fligstein, Neil and Doug McAdam. *A Theory of Fields*. Oxford UP, 2012.
 
+Flyvbjerg, Bent. *Making Social Science Matter*. Cambridge UP, 2001.
+
 Fuchs, Stephen. *Against Essentialism: A Theory of Culture and Society*. Harvard UP, 2005.
+
+Geuss, Raymond. *Philosophy and Real Politics*. Princeton UP, 2008.
+
+Ghandi, Leela. *Affective Communities: Anti-Colonial Thought, Fin-de-Siècle Radicalism, and the Politics of Friendship*. Duke UP, 2006. 
 
 Giddens, Anthony. *Central Problems in Social Theory: Action, Structure and Contradiction in Social Analysis*. Macmillan, 1979.
 
 Giddens, Anthony. *The Constitution of Society: Outline of the Theory of Structuration*. Polity, 1984.
+
+Griswold, C.L. Jr. *Adam Smith and the Virtures of Enlightenment*. Cambridge UP, 1999.
 
 Guala, Franceso and Daniel Steel. *The Philosophy of Social Science Reader*. Routledge, 2010.
 
@@ -208,11 +226,17 @@ Hedström, Peter. *Social Mechanisms: An Analytical Approach to Social Theory*. 
 
 Hedström, Peter. *Dissecting the Social: On the Principles of Analytical Sociology*. Cambridge UP, 2005.
 
+Held, V. *The Ethics of Care*. Oxford UP, 2006.
+
 Hodgson, Geoffrey M. and Thorbjørn Knudsen. *Darwin's Conjecture: The Search for General Principles of Social and Economic Evolution*. University of Chicago Press, 2010.
 
 Ingold, Tim. *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*. Routledge, 2011.
 
 Jarvie, Ian and Jesus Zamora-Bonilla. *The SAGE Handbook of the Philosophy of Social Sciences*. Sage, 2011.
+
+Kittay, E.F. *Love's Labor: Essays on Women, Equality and Dependency*. Routledge, 1999.
+
+Kusch, Rodolfo. *Indigenous and Popular Thinking in América*. Translated by Maria Lugones and Joshua M. Price. Duke UP, 2010.
 
 Lahire, Bernard. *The Plural Actor*. Polity, 2011.
 
@@ -238,6 +262,20 @@ Mantzavinos, C. *Philosophy of the Social Sciences: Philosophical Theory and Sci
 
 Manza, Jeff and Christopher Uggen. *Locked Out: Felon Disenfranchisement and American Democracy*. Oxford UP, 2006.
 
+Mbembe, Achille. *On the Postcology*. University of California Press, 2001.
+
+McCarthy, G.E. *Classical Horizons: The Origins of Sociology in Ancient Greece*. SUNY Press, 2003.
+
+Nichols, S. *Sentimental Rules: On the Natural Foundations of Moral Judgment*. Oxford UP, 2004.
+
+Nussbaum, Martha. *Women and Human Development: The Capabilities Approach*. Cambridge UP, 2000.
+
+Nussbaum, Martha. *Upheavals of Thought: The Intelligence of Emotions*. Cambridge UP, 2001.
+
+Nussbaum, Martha. *Hiding from Humanity*. Princeton UP, 2004.
+
+Nussbaum, Martha. *Frontiers of Justice*. Belknap, 2006.
+
 Pettit, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
 
 Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
@@ -245,6 +283,12 @@ Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Liv
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
 Rhodes, Lorna. *Total Confinement: Madness and Reason in the Maximum Security Prison*. University of California Press, 2004.
+
+Sayer, Andrew. *Method in Social Science: A Realist Approach*. Routledge, 1992.
+
+Sayer, Andrew. *Realism and Social Science*. Sage, 2000.
+
+Sen, Amartya. *Development as Freedom*. Oxford UP, 1999.
 
 Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
 
@@ -258,13 +302,25 @@ Tilly, Charles. *The Politics of Collective Violence*. Cambridge UP, 2003.
 
 Turse, Nick. *Kill Anything that Moves: The Real American War in Vietnam*. Metropolitan Books, 2013.
 
+van Staveren, I. *The Values of Economics: An Aristotelian Perspective*. Routledge, 2000.
+
 Veracini, L. *Settler Colonialism: A Theoretical Overview*. Palgrave Macmillan, 2010.
+
+Vetlesen, A.J. *Evil and Human Agency: Understanding Collective Evildoing*. Cambridge UP, 2005.
+
+Viveiros de Castro, Eduardo. *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society*. Translated by Catherine V. Howard. University of Chicago Press, 1992.
 
 Wan, Poe Yu-ze. *Reframing the Social: Emergentist Systemism and Social Theory*. Ashgate, 2011.
 
 Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 
 White, Harrison. *Identity and Control: How Social Formations Emerge*. Princeton UP, 2008. [Revised and Updated Version of *Identity and Control: A Structural Theory of Social Action*. Princeton UP, 1992.]
+
+Wilkonson, I. *Suffering: A Sociological Introduction*. Polity, 2005.
+
+Williams, S.J. *Emotion and Social Theory*. Routledge, 2001.
+
+Wynter, Sylvia. "Unsettling the Coloniality of Being/Power/Truth/Freedom: Towards the Human, After Man, Its Overrepresentation---An Argument." *CR: The New Centennial Review* 3 (2003): 257--337.
 
 Speculative
 ---
