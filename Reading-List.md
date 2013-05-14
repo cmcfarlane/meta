@@ -27,6 +27,8 @@ Clutton-Brock, Juliet. *A Natural History of Domesticated Mammals*. Cambridge UP
 
 Kalof, Linda. *Looking at Animals*. Reaktion, 2007.
 
+Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
+
 Serpell, James and Elizabeth Paul. "Pets and the Development of Positive Attitudes to Animals." In *Animals and Human Society: Changing Perspectives*. Edited by Aubrey Manning and James Serpell. Routledge, 1994.
 
 Eco
@@ -178,11 +180,15 @@ Archer, Margaret. *The Reflexive Imperative in Late Modernity*. Cambridge UP, 20
 
 Arpaly, Nomy. *Unprincipled Virtue: An Inquiry Into Moral Agency*. Oxford UP, 2003.
 
+Bedau, Mark A. "Weak Emergence." *Philosophical Perspectives* 11 (1997): 375--99.
+
 Berlant, Lauren. *Cruel Optimism*. Duke UP, 2011.
 
 Boltanski, Luc. *Distant Suffering*. Cambridge UP, 1999.
 
 Boltanski, Luc an L. Thévènot. *On Justification*. Princeton UP, 2006.
+
+Bunge, Mario. *Emergence and Convergence*. University of Toronto Press, 2003.
 
 Chibber, Vivek. *Postcolonial Theory and the Specter of Capital*. Verso, 2013.
 
@@ -190,13 +196,17 @@ Coleman, James. *Foundations of Social Theory*. Harvard UP, 1990.
 
 Collier, Andew. *Critical Realism: An Introduction*. Verso, 1994.
 
+Collins, Randall. "On the Microfoundations of Macrosociology." *American Journal of Sociology* 86 (1981): 984--1014.
+
 Collins, Randall. *Interaction Ritual Chains*. Princeton UP, 2004.
 
 DeLanda, Manuel. *A New Philosophy of Society: Assemblage Theory and Social Complexity*. Continuum, 2006.
 
 Demeulenaere, Pierre (ed). *Analytical Sociology and Social Mechanisms*. Cambridge UP, 2011.
 
-Elder-Vass, David. *The Causal Powers of Social Structures*. Cambridge UP, 2010. 
+Dupre, John. *Human Nature and the Limits of Science*. Clarendon Press, 2001.
+
+Elder, Vass, Dave. "Searching for Realism, Structure and Agency in Actor Network Theory." *British Journal of Sociology* 59 (2008): 455--73.
 
 Elder-Vass, David. *The Reality of Social Construction*. Cambridge UP, 2012.
 
@@ -278,8 +288,6 @@ Nussbaum, Martha. *Frontiers of Justice*. Belknap, 2006.
 
 Pettit, Becky. *Invisible Men: Mass Incarceration and the Myth of Black Progress*. Russell Sage Foundation, 2012.
 
-Pierce, Jessica. *The Last Walk: Reflections on Our Pets at the End of Their Lives*. University of Chicago Press, 2012.
-
 Reed, Isaac Ariail. *Interpretation and Social Knowledge: On the Use of Theory in the Human Sciences*. University of Chicago Press, 2011.
 
 Rhodes, Lorna. *Total Confinement: Madness and Reason in the Maximum Security Prison*. University of California Press, 2004.
@@ -289,6 +297,8 @@ Sayer, Andrew. *Method in Social Science: A Realist Approach*. Routledge, 1992.
 Sayer, Andrew. *Realism and Social Science*. Sage, 2000.
 
 Sen, Amartya. *Development as Freedom*. Oxford UP, 1999.
+
+Sheehy, Paul. *The Reality of Social Groups*. Ashgate, 2006.
 
 Slotkin, Richard. *Regeneration Through Violence: The Mythology of the American Frontier, 1600-1860*. Wesleyan UP, 1973.
 
@@ -311,6 +321,8 @@ Vetlesen, A.J. *Evil and Human Agency: Understanding Collective Evildoing*. Camb
 Viveiros de Castro, Eduardo. *From the Enemy's Point of View: Humanity and Divinity in an Amazonian Society*. Translated by Catherine V. Howard. University of Chicago Press, 1992.
 
 Wan, Poe Yu-ze. *Reframing the Social: Emergentist Systemism and Social Theory*. Ashgate, 2011.
+
+Weissman, David. *A Social Ontology*. Yale UP, 2000.
 
 Western, Bruce. *Punishment and Inequality in America*. Russell Sage Foundation, 2006.
 
